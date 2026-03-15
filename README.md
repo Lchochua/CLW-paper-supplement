@@ -1,6 +1,6 @@
 # Plurilateral Trade Agreements: A Complementary Margin to Preferential Liberalization
 
-**Lasha Chochua** (TSU ISET), **James Lake** (University of Tennessee), **Gerald Willmann** (Uni Bielefeld, IfW Kiel)
+**Lasha Chochua** (ISET), **James Lake** (University of Tennessee), **Gerald Willmann** (Uni Bielefeld, IfW Kiel)
 
 ## Overview
 
