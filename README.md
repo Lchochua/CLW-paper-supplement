@@ -57,5 +57,4 @@ across the (α, σ) parameter space.
 
 If you use these files, please cite:
 
-Chochua, L., Lake, J., and Willmann, G. "Plurilateral Trade Agreements: 
-A Complementary Margin to Preferential Liberalization."
+Chochua, L., Lake, J., and Willmann, G. (2026). "Plurilateral Trade Agreements: A Complementary Margin to Preferential Liberalization." Manuscript.
